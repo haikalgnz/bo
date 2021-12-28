@@ -1,7 +1,7 @@
 {
-  "name": "stikerinbot",
+  "name": "ikal boty gemoy",
   "version": "1.1.2",
-  "description": "WhatsApp Bot Ringan",
+  "description": "WhatsApp Bot Ringan,yang berat dosa lu",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
   },
-  "homepage": "https://github.com/ariffb25/stikerinbot",
+  "homepage": "https://wa.me/6289696454872",
   "dependencies": {
     "@adiwajshing/baileys": "github:melcanz/Baileys",
     "awesome-phonenumber": "^2.54.0",

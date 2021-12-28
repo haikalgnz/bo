@@ -16,9 +16,9 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 ketik *${usedPrefix}menu* untuk melihat daftar perintah`.trim(), '© stikerin', 'Menu', `${usedPrefix}?`, m)
 }
 handler.help = ['join <chat.whatsapp.com>']
-handler.tags = ['tools']
+handler.tags = ['owner']
 handler.command = /^join$/i
 
-handler.premium = false
+handler.rowner= true
 
 module.exports = handler

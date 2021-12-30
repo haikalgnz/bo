@@ -27,6 +27,7 @@
   "homepage": "https://wa.me/6289696454872",
   "dependencies": {
     "@adiwajshing/baileys": "github:melcanz/Baileys",
+    "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.21.1",
     "brainly-scraper-v2": "^2.0.3",
